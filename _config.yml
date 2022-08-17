@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Lali Curry
 description: Teaching Portfolio For Ms. Lali Curry
-logo: https://github.com/lalicurry/lalicurry.github.io/assets/lcurryprofile.jpg
+logo: /assets/lcurryprofile.jpg
 show_downloads: false
