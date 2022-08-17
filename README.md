@@ -1,1 +1,0 @@
-# lalicurry.github.io
