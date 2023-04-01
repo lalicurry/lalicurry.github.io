@@ -1,14 +1,8 @@
+layout: page
+title: "Ms. Lali Curry"
+
 # Ms. Lali Curry
 
-### Teaching  
-* AP Computer Science A
-* AP Computer Science Principals
-* IB DP Computer Science
-* IB DP Extended Essay Coordinator
+## IB DP Computer Science and AP Computer Science Teacher
 
-### Education  
-MS Education -- Teaching and Learning  
-*Concordia University Wisconsin -- Wisconsin, USA*  
 
-BBA International Trade  
-*Feng Chia University -- Taichung, Taiwan*
