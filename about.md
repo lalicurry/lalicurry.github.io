@@ -1,7 +1,3 @@
-layout: page
-title: "ABOUT - Lali Curry"
-permalink: /about
-
 # Ms. Lali Curry
 
 ### Teaching  
