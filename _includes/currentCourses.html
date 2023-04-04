@@ -1,0 +1,7 @@
+<ul>
+    {% for item in site.data.courses %}
+        {% if item.status == "current" %}
+       <li>  {{ item.name }}  </li>
+       {% endif %}
+    {% endfor %}
+</ul>
