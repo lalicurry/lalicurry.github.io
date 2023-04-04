@@ -21,7 +21,7 @@
 title: Ms. Lali Curry
 email: hulalicurry@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal Resume Blog for Lali Curry
+  Personal Site for Ms. Lali Curry.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "lalicurry.githubpages.io"
 
