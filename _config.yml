@@ -32,6 +32,11 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme 
 
+collections: 
+  courses: 
+    output: true
+
+
 # add this line to the plugins list if you already have one
 
 # Exclude from processing.
