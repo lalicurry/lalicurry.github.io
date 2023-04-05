@@ -1,8 +1,8 @@
 <nav>
+  {% assign looking = page.url ==item.link %}
     {% for item in site.data.navigation %}
-      <a href="{{ item.link }}" {% if page.url == item.link %}style="looking"{% endif %}>
+      <a href="{{ item.link }}" {%if looking %} class="looking"{%end if%}>
         {{ item.name }}
       </a>
     {% endfor %}
-    <p> </p>
   </nav>
