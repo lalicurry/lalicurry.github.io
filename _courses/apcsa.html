@@ -4,4 +4,15 @@ short_name: csa
 name: AP Computer Science A
 status: current
 ---
-AP Computer Science A is a College Board Course that teaches introductory computer programming in Java.
+
+<h3>
+AP Computer Science A is a College Board Course that teaches introductory computer programming in Java.</h3>
+
+<ul>
+    {% for lesson in site.apcsa %}
+      <li>
+          <h2><a href="{{ lesson.url }}">{{ lesson.name }}</a></h2>
+        <p>{{ lesson.content }}</p>
+      </li>
+    {% endfor %}
+  </ul>
