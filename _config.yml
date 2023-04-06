@@ -36,11 +36,11 @@ collections:
   courses: 
     output: true
     permalink: /courses/:name
-    
+
   apcsa:
     output: true
     sort_by: unit
-    permalink: /apcsa/:title
+    permalink: /courses/apcsa/:title
 
 
 
