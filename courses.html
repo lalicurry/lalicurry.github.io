@@ -10,7 +10,7 @@ title: Courses
     {% if course.status == "current" %}
     <li>
         <h2><a href="{{ course.url }}">{{ course.name }}</a></h2>
-      <p>{{ course.content }}</p>
+      <p>{{ course.desc }}</p>
     </li>
     {% endif %}
   {% endfor %}
@@ -22,7 +22,7 @@ title: Courses
         {% if course.status == "previous" %}
       <li>
           <h2><a href="{{ course.url }}">{{ course.name }}</a></h2>
-        <p>{{ course.content }}</p>
+        <p>{{ course.desc }}</p>
       </li>
       {% endif %}
     {% endfor %}

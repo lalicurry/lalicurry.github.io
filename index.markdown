@@ -6,7 +6,6 @@ layout: defaulting
 
 ### SY 2022-2023
 
-I hate grading FRQS.
 
 IB DP Extended Essay Coordinator  
 IB DP Computer Science HL / SL  
